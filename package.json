@@ -1,0 +1,22 @@
+{
+  "name": "retail-node-api",
+  "version": "1.0.0",
+  "description": "Retail Management Web API using Node, Express and Postgresql",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lemadane/retail-node-api.git"
+  },
+  "author": "Lem Adane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lemadane/retail-node-api/issues"
+  },
+  "homepage": "https://github.com/lemadane/retail-node-api#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
