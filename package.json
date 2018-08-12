@@ -25,6 +25,8 @@
     "joi-date-extensions": "^1.2.0",
     "joi-phone-number-extensions": "^1.1.0",
     "knex": "^0.15.2",
+    "lodash": "^4.17.10",
+    "moment": "^2.22.2",
     "morgan-body": "^2.4.5",
     "pg": "^7.4.3"
   }
