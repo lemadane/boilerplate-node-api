@@ -1,3 +1,3 @@
 # boilerplate-node-api
 
-retail-node-api is a retail management web API in Node and Express with PostgreSQL as the database manager.
+- is a boilerplate Web API in Node and Express with PostgreSQL as the database manager.
